@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(238, 121, 222);
+  }
+  
+  .name_of_objects{
+      color:white;
+      background-color: blue;
+      width: 800px;
+  }
